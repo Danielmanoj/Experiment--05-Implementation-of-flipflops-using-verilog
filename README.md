@@ -187,17 +187,25 @@ endmodule
 
 ### RTL LOGIC FOR FLIPFLOPS 
 SR FLIPFLOPS FOR RTL LOGIC:
+
+
 ![image](https://github.com/Danielmanoj/Experiment--05-Implementation-of-flipflops-using-verilog/assets/69635071/5c361315-bdec-4d19-862e-073a88584908)
 
 JK FLIPFLOPS FOR RTL LOGIC:
+
+
 ![image](https://github.com/Danielmanoj/Experiment--05-Implementation-of-flipflops-using-verilog/assets/69635071/f88693e4-0784-4aed-89aa-8a89b6aa5030)
 
 
 D FLIPFLOPS FOR RTL LOGIC:
+
+
 ![image](https://github.com/Danielmanoj/Experiment--05-Implementation-of-flipflops-using-verilog/assets/69635071/c2294d04-e816-45d6-bbdd-6b6eedc7b03b)
 
 
 T FLIPFLOPS FOR RTL LOGIC:
+
+
 ![image](https://github.com/Danielmanoj/Experiment--05-Implementation-of-flipflops-using-verilog/assets/69635071/59513f31-4a19-44ea-91a2-9896e4b72519)
 
 
@@ -206,17 +214,25 @@ T FLIPFLOPS FOR RTL LOGIC:
 
 SR FLIPFLOPS FOR TIMING DIGRAMS:
 
+
+
 ![image](https://github.com/Danielmanoj/Experiment--05-Implementation-of-flipflops-using-verilog/assets/69635071/9de4c6da-15df-4cb6-b5ba-b1b6de33ed14)
 
 
 JK FLIPFLOPS FOR TIMING DIGRAMS:
+
+
 ![image](https://github.com/Danielmanoj/Experiment--05-Implementation-of-flipflops-using-verilog/assets/69635071/56622751-5b16-46c5-bb17-c7b07f47ec04)
 
 D FLIPFLOPS FOR TIMING DIGRAMS:
 
+
+
 ![image](https://github.com/Danielmanoj/Experiment--05-Implementation-of-flipflops-using-verilog/assets/69635071/d75965c3-078e-4f52-a77d-e17e5a768e8d)
 
 T FLIPFLOPS FOR TIMING DIGRAMS:
+
+
 ![image](https://github.com/Danielmanoj/Experiment--05-Implementation-of-flipflops-using-verilog/assets/69635071/3654f9b9-812a-4eba-ab45-b8f9ae4c5f97)
 
 
